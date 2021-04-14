@@ -6,4 +6,5 @@
 - For a major assignment, then after the first time we will let Sanat know who isn't being responsible.
 - If unresponsive for 3 times for general communication, then we let Sanat know, and he will dock points accordingly.
 - Regardless, the rest of the group will know what you did and didn't do. Please stay on top of things!   
+
 Signed - Yezhang Liu
