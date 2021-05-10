@@ -1,4 +1,4 @@
-# Wireframe for Bullet Journal Using Figma
+# Rapid Logging Implementation for Bullet Journal Using Figma
 
 * Status: accepted <!-- optional -->
 * Date: 2021-05-10  <!-- optional -->
