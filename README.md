@@ -11,7 +11,9 @@ I recommend to try to filter out malicious content. Validates all headers, cooki
 
 ## CSRF Recommendation
 
-I recommend to try Fetch Metadata. Fetch Metadata request headers are a new web platform security feature designed to help servers defend themselves against cross-origin attacks. They allow the responding server to apply security policies before processing the request. This lets developers decide whether to accept or reject a request based on the way it was made and the context in which it will be used, making it possible to respond to only legitimate requests made by their own application.
+I recommend to try Fetch Metadata. Fetch Metadata request headers are a new web platform security feature designed to help servers defend themselves against cross-origin attacks. They allow the responding server to apply security policies before processing the request. This lets developers decide whether to accept or reject a request based on the way it was made and the context in which it will be used, making it possible to respond to only legitimate requests made by their own application.  
 
-source: lecture 9-webattacks pdf
+source: lecture 9-webattacks pdf  
+
 ## Did you like the PA? Anything that could be improved? Give your suggestions here
+This PA is fun, but frustrating at the beginning since I'm not farmilar with html and javascript. I gave up on some of the extra credit parts to save my brain cells.
